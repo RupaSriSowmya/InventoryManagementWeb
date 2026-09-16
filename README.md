@@ -230,18 +230,44 @@ http://localhost:8081/InventoryManagementWeb/
 
 # 📸 Application Screenshots
 
-The project includes:
+## 🔐 Login Page
 
-- Login Page
-- Dashboard
-- Products Page
-- Add Product Page
-- Edit Product Page
-- Search Product
-- Stock Management
-- Low Stock Products
-- Delete Confirmation
-- Logout Page
+<img src="screenshots/login.png" width="800">
+
+
+## 📊 Dashboard
+
+<img src="screenshots/dashboard.png" width="800">
+
+
+## 📦 Product Management
+
+<img src="screenshots/products.png" width="800">
+
+
+## ➕ Add Product
+
+<img src="screenshots/add_product.png" width="800">
+
+
+## ✏️ Edit Product
+
+<img src="screenshots/edit_product.png" width="800">
+
+
+## 🗑️ Delete Confirmation
+
+<img src="screenshots/delete_product.png" width="800">
+## 🚪 stock management Page
+
+<img src="screenshots/stock_management.png" width="800">
+
+## 🚪 Low stock Page
+
+<img src="screenshots/low_stock.png" width="800">
+## 🚪 Logout Page
+
+<img src="screenshots/logout.png" width="800">
 
 ---
 
