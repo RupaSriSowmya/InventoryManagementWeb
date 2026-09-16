@@ -232,17 +232,17 @@ http://localhost:8081/InventoryManagementWeb/
 
 ## 🔐 Login Page
 
-<img src="screenshots/login.png" >
+<img src="screenshots/login.png">
 
 
 ## 📊 Dashboard
 
-<img src="screenshots/dashboard.png" >
+<img src="screenshots/dashboard.png">
 
 
 ## 📦 Product Management
 
-<img src="screenshots/products.png" >
+<img src="screenshots/products.png">
 
 
 ## ➕ Add Product
@@ -252,23 +252,27 @@ http://localhost:8081/InventoryManagementWeb/
 
 ## ✏️ Edit Product
 
-<img src="screenshots/edit_product.png" >
+<img src="screenshots/edit_product.png">
 
 
 ## 🗑️ Delete Confirmation
 
-<img src="screenshots/delete_product.png" >
-## 🚪Stock Management Page
-<img src="screenshots/stock_management.png" >
+<img src="screenshots/delete_product.png">
 
-## 🚪 Low stock Page
 
-<img src="screenshots/low_stock.png" >
+## 📈 Stock Management Page
+
+<img src="screenshots/stock_management.png">
+
+
+## ⚠️ Low Stock Page
+
+<img src="screenshots/low_stock.png">
+
+
 ## 🚪 Logout Page
 
 <img src="screenshots/logout.png">
-
----
 
 # 👩‍💻 Author
 
