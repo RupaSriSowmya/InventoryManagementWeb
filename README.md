@@ -258,8 +258,7 @@ http://localhost:8081/InventoryManagementWeb/
 ## 🗑️ Delete Confirmation
 
 <img src="screenshots/delete_product.png" >
-## 🚪 stock management Page
-
+## 🚪Stock Management Page
 <img src="screenshots/stock_management.png" >
 
 ## 🚪 Low stock Page
